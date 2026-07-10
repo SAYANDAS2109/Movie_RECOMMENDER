@@ -5,7 +5,7 @@ import pickle as pkl
 
 movies = pkl.load(open(r'C:\C LANGUAGE\code2\Movie_Recommeder\movies.pkl','rb'))
 
-similarity = pkl.load(open(r'C:\C LANGUAGE\code2\Movie_Recommeder\similarity (1).pkl','rb'))
+similarity = pkl.load(open(r'C:\C LANGUAGE\code2\Movie_Recommeder\similarity.pkl','rb'))
 
 st.set_page_config(
     page_title="Movie Recommender",
