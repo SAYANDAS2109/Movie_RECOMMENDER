@@ -207,6 +207,3 @@ The similarity matrix (`similarity.pkl`) is generated from the processed dataset
 
 ---
 
-# ⭐ If you found this project useful
-
-Please consider giving the repository a **Star ⭐**.
